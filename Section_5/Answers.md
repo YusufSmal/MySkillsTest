@@ -1,3 +1,7 @@
 # Question 9
 
+	One of the first responsibilities that i had when working for PMT, was to update the test packs for the existing angular JS code. I used the .spec files within the angular project to create automated tests in the Mocha as the testing language. Using this platform I created tests that would test each function locally, to ensure that they were working as expected, and were not broken through new development, as there was still some development being done on the Angular JS work. 
+
 # Question 10
+
+	When I was working for Axon, my second job, I was part of the testing team there, and was tasked with testing the new sections of the software being built. At one point i found a bug that would cause the mobile application to stop working correctly. After spending some time figuring out where and how the bug occurred, I had to create a ticket for the bug and detail the steps of how to recreate the bug. After doing this, it came out that no one else found this bug as i was the only person using the keyboard of the app in a certain way. Once the error was understood, the code was updated and a new version of the code was sent to me, after which I spent some time to test the system, making sure that there were no other errors, and that this error could not be reproduced in any way.
